@@ -1,0 +1,60 @@
+h1
+{
+ margin-left:560px;
+ color:rgb(255, 255, 255);
+
+}
+#head   
+{
+border:3px outset midnightblue;
+background-image: url(https://img.freepik.com/free-photo/painting-mountain-lake-with-mountain-background_188544-9126.jpg);
+}
+#malumot
+{
+color:rgb(255, 255, 255);
+margin-left: 15px;
+font-size: 20px;;
+background-color: midnightblue;
+}
+h3
+{
+color: crimson;
+}
+body
+{
+ background-color: midnightblue;
+}
+#telefon
+{
+color: rgb(255, 255, 255);
+}
+#backend
+{
+height: 390px;
+width: 600px;
+}
+#summa
+{
+
+margin-left: 750px;
+margin-top:-400px;  
+}
+#oylik
+{
+color: rgb(255, 106, 0);
+font-size: 30px; 
+}
+#frontend
+{
+    color: rgb(255, 255, 255);
+    margin-left:-95px;
+    margin-top:35px;  
+    font-size: 25px;
+}
+#front
+{
+    text-shadow: red -2px 0;
+                        
+    margin-left:560px;
+    color:rgb(0, 0, 0)
+   } 
